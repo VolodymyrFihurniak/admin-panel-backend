@@ -1,0 +1,7 @@
+.prettierrc.json
+.eslintrc
+.vscode
+.env
+dist
+node_modules
+tsconfig.json
